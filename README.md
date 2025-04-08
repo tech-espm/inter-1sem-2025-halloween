@@ -10,10 +10,10 @@
 
 ## Integrantes
 - [Gabriel Lemos](https://github.com/gabe8k)
-- [Nome](https://github.com/xxx)
-- [Nome](https://github.com/xxx)
-- [Nome](https://github.com/xxx)
-- [Nome](https://github.com/xxx)
+- [Kaique Lira](https://github.com/xxx)
+- [Enzo Oliveira](https://github.com/xxx)
+- [Gustvo Knorre](https://github.com/xxx)
+- [Kevin Lee](https://github.com/xxx)
 
 ## Descrição do Projeto
 
