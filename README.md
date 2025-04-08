@@ -9,7 +9,7 @@
 ### 2025-01
 
 ## Integrantes
-- [Nome](https://github.com/xxx)
+- [Gabriel Lemos](https://github.com/gabe8k)
 - [Nome](https://github.com/xxx)
 - [Nome](https://github.com/xxx)
 - [Nome](https://github.com/xxx)
