@@ -10,7 +10,7 @@
 
 ## Integrantes
 - [Gabriel Lemos](https://github.com/gabe8k)
-- [Kaique Lira](https://github.com/xxx)
+- [Kaique Lira](https://github.com/Kaiqueee011)
 - [Enzo Oliveira](https://github.com/xxx)
 - [Gustvo Knorre](https://github.com/xxx)
 - [Kevin Lee](https://github.com/xxx)
