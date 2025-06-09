@@ -34,25 +34,25 @@ Para as marcas envolvidas, trata-se de uma oportunidade de entrar no universo ga
 
 No nosso mapa, foi criado um parque temático de Halloween, com shops, atrações, roda gigante e diversas outras atrações. Terá uma entrada oficial pro parque com uma bilheteria e vários caminhos de acesso por meio de um Hub central e cada área terá um estilo temático.
 <p>
-    <img src="https://github.com/tech-espm/inter-1sem-2025-halloween/commit/f831cfc8d0c6527ddad8133d83193001982043df" style="width: 375px;"/>
+    <img src="https://github.com/tech-espm/inter-1sem-2025-halloween/blob/main/WhatsApp%20Image%202025-06-09%20at%2012.11.59.jpeg" style="width: 375px;"/>
 </p>
 <p>
-    <img src="https://github.com/tech-espm/inter-1sem-2025-halloween/commit/f831cfc8d0c6527ddad8133d83193001982043df" style="width: 375px;"/>
+    <img src="https://github.com/tech-espm/inter-1sem-2025-halloween/blob/main/WhatsApp%20Image%202025-06-09%20at%2012.11.58.jpeg" style="width: 375px;"/>
 </p>
 <p>
-    <img src="https://github.com/tech-espm/inter-1sem-2025-halloween/commit/f831cfc8d0c6527ddad8133d83193001982043df" style="width: 375px;"/>
+    <img src="https://github.com/tech-espm/inter-1sem-2025-halloween/blob/main/WhatsApp%20Image%202025-06-09%20at%2012.11.57.jpeg" style="width: 375px;"/>
 </p>
 <p>
-    <img src="https://github.com/tech-espm/inter-1sem-2025-halloween/commit/f831cfc8d0c6527ddad8133d83193001982043df" style="width: 375px;"/>
+    <img src="https://github.com/tech-espm/inter-1sem-2025-halloween/blob/main/WhatsApp%20Image%202025-06-09%20at%2012.12.01.jpeg" style="width: 375px;"/>
 </p>
 <p>
-    <img src="https://github.com/tech-espm/inter-1sem-2025-halloween/commit/f831cfc8d0c6527ddad8133d83193001982043df" style="width: 375px;"/>
+    <img src="https://github.com/tech-espm/inter-1sem-2025-halloween/blob/main/WhatsApp%20Image%202025-06-09%20at%2012.12.04.jpeg" style="width: 375px;"/>
 </p>
 <p>
-    <img src="https://github.com/tech-espm/inter-1sem-2025-halloween/commit/f831cfc8d0c6527ddad8133d83193001982043df" style="width: 375px;"/>
+    <img src="https://github.com/tech-espm/inter-1sem-2025-halloween/blob/main/WhatsApp%20Image%202025-06-09%20at%2012.12.06.jpeg" style="width: 375px;"/>
 </p>
 <p>
-    <img src="https://github.com/tech-espm/inter-1sem-2025-halloween/commit/f831cfc8d0c6527ddad8133d83193001982043df" style="width: 375px;"/>
+    <img src="https://github.com/tech-espm/inter-1sem-2025-halloween/blob/main/WhatsApp%20Image%202025-06-09%20at%2012.12.07.jpeg" style="width: 375px;"/>
 </p>
 # Licença
 
