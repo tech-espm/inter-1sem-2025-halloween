@@ -34,9 +34,26 @@ Para as marcas envolvidas, trata-se de uma oportunidade de entrar no universo ga
 
 No nosso mapa, foi criado um parque temático de Halloween, com shops, atrações, roda gigante e diversas outras atrações. Terá uma entrada oficial pro parque com uma bilheteria e vários caminhos de acesso por meio de um Hub central e cada área terá um estilo temático.
 <p>
-    <img src="https://github.com/tech-espm/inter-1sem-2025-halloween/commit/f831cfc8d0c6527ddad8133d83193001982043df"
+    <img src="https://github.com/tech-espm/inter-1sem-2025-halloween/commit/f831cfc8d0c6527ddad8133d83193001982043df" style="width: 375px;"/>
 </p>
-
+<p>
+    <img src="https://github.com/tech-espm/inter-1sem-2025-halloween/commit/f831cfc8d0c6527ddad8133d83193001982043df" style="width: 375px;"/>
+</p>
+<p>
+    <img src="https://github.com/tech-espm/inter-1sem-2025-halloween/commit/f831cfc8d0c6527ddad8133d83193001982043df" style="width: 375px;"/>
+</p>
+<p>
+    <img src="https://github.com/tech-espm/inter-1sem-2025-halloween/commit/f831cfc8d0c6527ddad8133d83193001982043df" style="width: 375px;"/>
+</p>
+<p>
+    <img src="https://github.com/tech-espm/inter-1sem-2025-halloween/commit/f831cfc8d0c6527ddad8133d83193001982043df" style="width: 375px;"/>
+</p>
+<p>
+    <img src="https://github.com/tech-espm/inter-1sem-2025-halloween/commit/f831cfc8d0c6527ddad8133d83193001982043df" style="width: 375px;"/>
+</p>
+<p>
+    <img src="https://github.com/tech-espm/inter-1sem-2025-halloween/commit/f831cfc8d0c6527ddad8133d83193001982043df" style="width: 375px;"/>
+</p>
 # Licença
 
 Este projeto é licenciado sob a [MIT License](https://github.com/tech-espm/inter-1sem-2025-halloween/blob/main/LICENSE).
