@@ -18,14 +18,24 @@
 ## Briefing
 
 O nosso projeto, com a temática de Halloween, será feito um Parque de Halloween, e será uma experiência imersiva dentro do universo do Minecraft, combinando elementos de gameplay, cenários temáticos e ativações personalizadas de marcas como Fini, Haribo, Coca-Cola e Monster Energy. Criado em um mapa totalmente customizado e estilizado com temática de Halloween, o projeto irá transformar o jogo em um parque interativo, cheio de desafios, minigames e ambientes para explorar.
+
 O mapa contará com quatro grandes atrações principais: a Roda-Gigante dos Sustos, a Montanha Russa do Terror, a Lojinha Assombrada e o Mausoleu Interativo. Cada atração foi desenvolvida com recursos visuais e mecânicas próprias dentro do jogo, oferecendo experiências únicas tanto para jogadores solo quanto para grupos em multiplayer.
+
 - Roda-Gigante: uma estrutura grandiosa e totalmente funcional, iluminada por blocos brilhantes, redstone e comandos especiais. Durante o passeio, os jogadores vivenciam sustos programados, efeitos visuais e mensagens assustadoras no chat.
 - Montanha Russa: trilhos personalizados com ambientação sombria, passeio pelo mapa todo e  alguns jumpscares . A experiência mistura adrenalina com momentos surpresa, ideal para criação de conteúdo.
 - Lojinha Assombrada: espaço interativo onde os jogadores podem coletar itens virtuais customizados inspirados nas marcas parceiras (doces, skins temáticas, poções personalizadas etc.). Também será um ponto de troca de recompensas obtidas nas atrações.
 - Mausoleu Assombrado: dungeon sensorial dentro do jogo, onde o jogador precisa completar desafios, escapar de armadilhas e enfrentar mobs personalizados.
+  
 O parque será lançado em um servidor dedicado, com suporte multiplayer e funcionalidades específicas para criadores de conteúdo, influenciadores e comunidade em geral. A experiência será voltada principalmente para jovens de 10 a 25 anos e fãs da cultura gamer e de Halloween, com forte potencial de viralizar nas redes sociais.
+
 Para as marcas envolvidas, trata-se de uma oportunidade de entrar no universo gamer de forma criativa e integrada, com grande apelo entre o público jovem e forte engajamento digital. As ativações serão 100% personalizadas e poderão incluir ações especiais no mapa, brindes, interações e até eventos ao vivo dentro do servidor.
 
+## Area do Mapa
+
+No nosso mapa, foi criado um parque temático de Halloween, com shops, atrações, roda gigante e diversas outras atrações. Terá uma entrada oficial pro parque com uma bilheteria e vários caminhos de acesso por meio de um Hub central e cada área terá um estilo temático.
+<p>
+    <img src="https://raw.githubusercontent.com/tech-espm/misc-template/main/logo.png"
+</p>
 
 # Licença
 
