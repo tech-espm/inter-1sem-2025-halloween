@@ -54,6 +54,8 @@ No nosso mapa, foi criado um parque temático de Halloween, com shops, atraçõe
 <p>
     <img src="https://github.com/tech-espm/inter-1sem-2025-halloween/blob/main/WhatsApp%20Image%202025-06-09%20at%2012.12.07.jpeg" style="width: 375px;"/>
 </p>
-# Licença
+
+
+## Licença
 
 Este projeto é licenciado sob a [MIT License](https://github.com/tech-espm/inter-1sem-2025-halloween/blob/main/LICENSE).
