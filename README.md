@@ -96,6 +96,13 @@ Dado o nosso mundo, a solução que tivemos no código, foram diversos, como apl
 
 ## Conclusão
 
+O nosso projeto do Parque de Halloween no Minecraft demonstrou como é possível unir criatividade, design de jogos e estratégias de engajamento de marca em uma experiência imersiva, interativa e impactante. A proposta inicial de transformar o jogo em um parque temático digital foi plenamente alcançada, com destaque para a construção de um mapa customizado e repleto de atrações originais que aproveitam ao máximo os recursos oferecidos pelo Minecraft.
+
+Cada uma das atrações – como a Roda-Gigante dos Sustos, a Montanha Russa do Terror, a Lojinha Assombrada e o Mausoleu Interativo – foi pensada para proporcionar experiências únicas e complementares, criando um ambiente dinâmico e atrativo para diferentes perfis de jogadores. Além disso, a incorporação de efeitos especiais via código e a personalização de itens e texturas enriqueceram ainda mais a imersão e permitiram que a ambientação fosse além da estética, tornando-se também sensorial e funcional.
+
+Do ponto de vista técnico e criativo, destacam-se a aplicação de comandos personalizados, as reações específicas a cada item interativo e a atenção aos detalhes no design do mapa. Esses elementos não só reforçaram a narrativa temática do Halloween, como também ampliaram o potencial do projeto em termos de entretenimento e viralização nas redes sociais.
+
+Finalizando, o Parque de Halloween representa uma proposta criativa e bem executada que une tecnologia, narrativa e marketing de maneira eficaz. O resultado é uma experiência envolvente, com forte apelo visual e sensorial, que evidencia o potencial dos jogos como plataformas para entretenimento, comunicação e relacionamento com o público.
 
 
 ## Licença
