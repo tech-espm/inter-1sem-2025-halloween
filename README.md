@@ -58,6 +58,40 @@ No nosso mapa, foi criado um parque temático de Halloween, com shops, atraçõe
 
 ## Desenvolvimento
 
+Dado o nosso mundo, a solução que tivemos no código, foram diversos, como aplicação de efeitos maléficos no personagem ao comer algum alimento, e para tal ação ocorrer, foi preciso descrever o código como “nausea” por 10s quando comer a maça, ou ganhar velocidade quando beber uma garrafa de mel, ou ao comer uma maça, a pessoa cai do ceu, tomar um ensopado de cogumelo torna o horário do mundo em dia.
+
+### Bebida que dá Velocidade
+    def on_item_interacted_honey_bottle():
+        player.execute("/effect @s speed 10 2 true")
+    player.on_item_interacted(HONEY_BOTTLE, on_item_interacted_honey_bottle)
+
+### Maçã Amaldiçoada
+    def on_item_interacted_enchanted_apple():
+        player.teleport(pos(0, 150, 0))
+    player.on_item_interacted(ENCHANTED_APPLE, on_item_interacted_enchanted_apple)
+
+### Maçã Doce Amaldiçoada
+    def on_item_interacted_apple():
+        player.execute("/effect @s nausea 10 1 true")
+    player.on_item_interacted(APPLE, on_item_interacted_apple)
+
+### Melão que dá Efeito de Visão Noturna
+    def on_item_interacted_glistering_melon():
+        player.execute("/effect @s night_vision 10 1 true")
+    player.on_item_interacted(GLISTERING_MELON, on_item_interacted_glistering_melon)
+
+
+### Pão te regenera
+    def on_item_interacted_bread():
+        player.execute("/effect @s regeneration 10 3 true")
+    player.on_item_interacted(BREAD, on_item_interacted_bread)
+
+### Tomar a Sopa de Cogumelo muda o horário para Dia
+    def on_item_interacted_mushroom_stew():
+        gameplay.set_weather(CLEAR)
+        gameplay.time_set(gameplay.time(MIDDAY))
+    player.on_item_interacted(MUSHROOM_STEW, on_item_interacted_mushroom_stew)
+
 
 
 ## Conclusão
