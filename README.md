@@ -56,6 +56,14 @@ No nosso mapa, foi criado um parque temático de Halloween, com shops, atraçõe
 </p>
 
 
+## Desenvolvimento
+
+
+
+## Conclusão
+
+
+
 ## Licença
 
 Este projeto é licenciado sob a [MIT License](https://github.com/tech-espm/inter-1sem-2025-halloween/blob/main/LICENSE).
